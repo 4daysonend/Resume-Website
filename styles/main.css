@@ -155,4 +155,9 @@ li{
         border-left: none;
         padding-left: 0;
     }
+
+    .card--work-history{
+        border-left: none;
+        padding-left: 0;
+    }
 }
